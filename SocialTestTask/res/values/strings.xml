@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SocialTestTask</string>
+    <string name="action_settings">Settings</string>
+   
+    
+    <!--settings  fragment-->
+    <string name="notification_text">Notifications</string>
+    <string name="terms_text">Terms</string>
+    <string name="support_text">Support</string>
+     
+    <!--avatar  -->
+    <string name="avatar_name">Julia Gramm</string>
+
+</resources>

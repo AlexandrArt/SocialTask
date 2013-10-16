@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <selector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+         >
+     	<item android:state_pressed="true" 
+           	android:drawable="@drawable/arrow2" /> <!-- pressed -->
+     	<item android:state_focused="true"
+           	android:drawable="@drawable/arrow2" /> <!-- focused -->
+     	<item android:drawable="@drawable/arrow1" /> <!-- default -->
+ 	</selector>

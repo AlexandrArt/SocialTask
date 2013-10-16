@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<!--settings  -->
+    <color name="settings_buttonText_highlight">#FFFFFF</color>
+    <color name="settins_background">#40ffffff</color>
+    <color name="buttons_background">#10000000</color>
+    <color name="buttons_background_press">#40000000</color>
+    <color name="line_color">#50FFFFFF</color>
+    <color name="avatar_name_color">#ffffff</color>
+    
+    
+
+</resources>
